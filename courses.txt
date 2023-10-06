@@ -2,5 +2,3 @@ Java
 React js
 Aws architect
 devops
-python
-spring boot
